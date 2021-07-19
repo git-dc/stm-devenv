@@ -10,7 +10,7 @@ mkdir -p ../tools/stm32cubemx/
 cp stm32cube_icon.png ../tools/stm32cubemx/icon.png
 
 
-tar xzf eclipse-cpp-oxygen-3a-linux-gtk-x86_64.tar.gz --directory=../
+tar xzf eclipse-cpp-oxygen-3a-linux-gtk-x86_64.tar.gz --directory=../tools/
 cp eclipse.desktop $HOME/.local/share/applications
 cp stm32cubemx.desktop $HOME/.local/share/applications
 #cp stm32cubeprogrammer.desktop $HOME/.local/share/applications
