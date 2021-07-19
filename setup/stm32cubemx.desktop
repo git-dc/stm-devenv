@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=6.2.1
+Type=Application
+Name=STM32CubeMX
+Exec=/home/dc/work/stm-devenv/tools/stm32cubemx/STM32CubeMX
+Icon=/home/dc/work/stm-devenv/tools/stm32cubemx/icon.png
+Category=Development;
+Comment=
+Terminal=false
+StartupNotify=false

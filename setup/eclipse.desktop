@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=Oxygen 3.a
+Type=Application
+Name=Eclipse
+Exec=/home/dc/work/stm-devenv/tools/eclipse/eclipse
+Icon=/home/dc/work/stm-devenv/tools/eclipse/icon.xpm
+Category=Development;
+Comment=
+Path=/home/dc/work/stm-devenv/projects
+Terminal=false
+StartupNotify=false
